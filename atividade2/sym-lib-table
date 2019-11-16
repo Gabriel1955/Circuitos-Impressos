@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name atividade2)(type Legacy)(uri ${KIPRJMOD}/atividade2.lib)(options "")(descr ""))
+)
